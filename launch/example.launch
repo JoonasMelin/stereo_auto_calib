@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+
+<launch>
+  <node name="stereo_auto_calib" type="stereo_auto_calib.py"
+  pkg="stereo_auto_calib"/>
+</launch>
